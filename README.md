@@ -1,2 +1,2 @@
-# variables.js
+# Basics.js
 A code repo javascript. variables
