@@ -6,6 +6,7 @@ var accountPassword = "password123";
 accountEmail = "newemail@gmail.com";
 accountPassword = "newpassword456";
 accountCity = "Pune";
+let accountState
 
  console.log( accountId );
 
@@ -13,5 +14,6 @@ accountCity = "Pune";
 
     accountEmail,
     accountPassword,
-    accountCity
+    accountCity,
+    accountState
  });
